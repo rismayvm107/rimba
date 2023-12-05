@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: HardHUMMY
+  m_EditorClassIdentifier: 
+  categoryName: Hard
+  questions:
+  - questionInfo: Planet ke 4 setelah planet dibawah ini yaitu?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e8a1fa423ecbdac498e60b7e7903b92f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Neptunus
+    - Uranus
+    - Saturnus
+    - Venus
+    correctAns: Uranus
+  - questionInfo: Planet yang memiliki lama waktu 10 jam 34 menit dalam sehari yaitu?
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 37ae6221406c28e49a75203a453e3243, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Neptunus
+    - Uranus
+    - Saturnus
+    - Jupiter
+    correctAns: Saturnus
+  - questionInfo: Planet yang dijuluki "planet merah" yaitu?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b3423e99712707245b9a78b3d203c41d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Venus
+    - Merkurius
+    - Jupiter
+    - Mars
+    correctAns: Mars
+  - questionInfo: 'Lama satu hari: 243 h 0 j 0 m Periode orbit: 225 hari Jarak dari
+      Matahari: 108,2 juta km, merupakan ciri-ciri dari planet?'
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 3e8e300d7725b4a4a83e8eb948e54b23, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Venus
+    - Mars
+    - Bumi
+    - Jupiter
+    correctAns: Venus
+  - questionInfo: Planet yang digadang-gadang bisa ditinggali setelh bumi yaitu?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: 140306c0eade8ec4f98db3a0b1d071dd, type: 3}
+    options:
+    - Venus
+    - Mars
+    - Jupiter
+    - Uranus
+    correctAns: Mars
